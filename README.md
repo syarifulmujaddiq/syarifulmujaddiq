@@ -2,7 +2,7 @@
 
 Hi, i'm Syariful born in Sinjai, studying at the University of Muhammadiyah Makassar majoring in informatics engineering, and now joining the Coconut Computer Club
 
-<img src="https://user-images.githubusercontent.com/65858180/137301567-37e84890-e360-4f86-9dcc-127ff7f4f85b.gif" >
+<img src="https://user-images.githubusercontent.com/65858180/137301567-37e84890-e360-4f86-9dcc-127ff7f4f85b.gif" 
 
 
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
