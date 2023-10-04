@@ -1,3 +1,4 @@
+[![An image of @syarifulmujaddiq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syarifulmujaddiq)](https://holopin.io/@syarifulmujaddiq)
 
 # 💫 About Me:
 Hi, i'm Syariful born in Sinjai, studying at the University of Muhammadiyah Makassar majoring in informatics engineering, and now joining the Coconut Computer Club<br><br>🔭 I’m currently working with many organizations<br>🌱 I’m currently learning new things<br>👯 I’m looking to collaborate on Opensourced Projects<br>
@@ -18,7 +19,6 @@ Hi, i'm Syariful born in Sinjai, studying at the University of Muhammadiyah Maka
 ---
 [![](https://visitcount.itsvg.in/api?id=syarifulmujaddiq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![An image of @syarifulmujaddiq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syarifulmujaddiq)](https://holopin.io/@syarifulmujaddiq)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
