@@ -17,8 +17,8 @@ Hi, i'm Syariful born in Sinjai, studying at the University of Muhammadiyah Maka
 ---
 [![](https://visitcount.itsvg.in/api?id=syarifulmujaddiq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![An image of @syarifulmujaddiq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syarifulmujaddiq)](https://holopin.io/@syarifulmujaddiq)
 
+[![An image of @syarifulmujaddiq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syarifulmujaddiq)](https://holopin.io/@syarifulmujaddiq)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
