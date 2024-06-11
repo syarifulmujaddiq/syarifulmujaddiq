@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hi, i'm Syariful born in Sinjai, studying at the University of Muhammadiyah Makassar majoring in informatics engineering, and now joining the Coconut Computer Club<br><br>🔭 I’m currently working with many organizations<br>🌱 I’m currently learning new things<br>👯 I’m looking to collaborate on Opensourced Projects<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syarifulmujaddiq_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/syarifulmujaddiq) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xSyariful ) 
